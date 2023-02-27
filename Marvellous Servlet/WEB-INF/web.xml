@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+    <servlet-name>
+        Testing
+    </servlet-name>
+    <servlet-class>
+        TestingServlet
+    </servlet-class>
+</servlet>
+</web-app>
